@@ -1,8 +1,8 @@
 # nlw-heat-web
 
-### Tecnologias Usadas
+### Technology
 * ReactJS
 * TypeScript
 * SASS
 
-#### Projeto desenvolvido na NLW da Rocketseat.
+Developed in "NLW Heat" from Rocketseat.
