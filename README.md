@@ -1,6 +1,6 @@
 # nlw-heat-web
 
-### Technology
+### Technologies
 * ReactJS
 * TypeScript
 * SASS
